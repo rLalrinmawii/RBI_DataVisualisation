@@ -1,8 +1,6 @@
 # Data Visualization using RBI Dataset
 Economic Analysis and Insights using Java
 
- by R Lalrinmawii
-
 
 
 
@@ -76,6 +74,9 @@ Scatter Plot: Scatter plots display the relationship between two variables by pl
 The bar chart aims to visualize the components of reserve money over time, including currency in circulation, other deposits, and bankers' deposits.
 
 It provides a visual comparison of how much money is allocated to various categories, such as currency in circulation, deposits, and other financial instruments, allowing for easy identification of changes or trends in the distribution pattern.
+<img width="798" alt="barChart" src="https://github.com/rLalrinmawii/RBI_DataVisualisation/assets/142977438/011d9395-3e3c-4bef-9ba1-2ce775ea9c9a">
+
+
 
 Interpretation: The grpah provides a visual comparison allowing for easy identification of changes or trends in the distribution pattern. The report dates in the graph start from the most recent and end with the oldest report. By examining the bar chart, one can observe the fluctuations in each component of reserve money over the reporting period. Significant trends or changes in the relative proportions of these components can be identified, providing insights into monetary dynamics. Over the years, currency in circulation increased significantly. 'Other' deposits also grew, peaking in mid-2020. Bankers' deposits with the RBI increased gradually until 2016 and then slightly declined in the most recent report.
 
@@ -84,6 +85,9 @@ Interpretation: The grpah provides a visual comparison allowing for easy identif
 The line chart aims to depict the trend of reserve money over time.
 
 By plotting data points and connecting them with lines, it depicts the trajectory of the total money supply, indicating whether it is increasing, decreasing, or remaining stable over the reporting period.
+<img width="800" alt="LineGRAPH" src="https://github.com/rLalrinmawii/RBI_DataVisualisation/assets/142977438/4d231c9c-9378-437c-a56f-e395b258282c">
+
+
 
 Interpretation: Analysis of the line chart allows for the identification of trends in the overall reserve money over the reporting period. Any consistent upward or downward trends can indicate changes in monetary policy or economic conditions, offering valuable insights for decision-making. Since the report dates in the graph start from the most recent and end with the oldest report, it suggests economic growth and increased liquidity in the financial system. The peak in recent years indicates a period of substantial monetary expansion. However, the noticeable decline at the end of 2016 until 2017 could point to temporary tightening of monetary policy or economic adjustment. This fluctuation, followed by continued growth after the decline, provides valuable insights into the changing economic conditions and policy responses over time.
 
@@ -93,6 +97,8 @@ Interpretation: Analysis of the line chart allows for the identification of tren
 The pie chart aims to illustrate the composition of RBI's claims, including claims on the government, banks, and commercial sectors.
 
 It represents the distribution of funds among various sectors in a circular format, with each sector's share depicted as a slice of the pie. This allows for a clear understanding of the relative size and importance of each sector in the financial landscape.
+<img width="800" alt="pieChart" src="https://github.com/rLalrinmawii/RBI_DataVisualisation/assets/142977438/73509ad4-0ec5-4da5-beda-17a42436b903">
+
 
 Interpretation: Examination of the pie chart allows for understanding the distribution of the RBI's claims across different sectors. By comparing the sizes of each slice, one can assess the relative importance of each sector in terms of the RBI's claims, providing insights into the central bank's role in the economy.
 
@@ -104,6 +110,8 @@ In the chart, more than 80% of the claims are on the government, represented in 
 The scatter plot aims to explore the relationship between currency in circulation and bankers' deposits.
 
 By plotting individual data points on a graph with one variable on the x-axis and the other on the y-axis, it helps identify any patterns, trends, or correlations between the two variables, providing insights into their interdependence or association.
+<img width="796" alt="scatterplot" src="https://github.com/rLalrinmawii/RBI_DataVisualisation/assets/142977438/775a7238-65e1-4e8c-9292-bac9e2cb8473">
+
 
 Interpretation: Analysis of the scatter plot allows for identifying correlations or patterns between currency in circulation and bankers' deposits. Clusters or outliers in the data points can reveal specific trends or anomalies in the relationship between these variables, providing insights into monetary behavior or market dynamics.
 
