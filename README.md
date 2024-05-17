@@ -1,4 +1,4 @@
-# Data Visualization using RBI Datase
+# Data Visualization using RBI Dataset
 Economic Analysis and Insights using Java
 
  by R Lalrinmawii
